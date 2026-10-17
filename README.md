@@ -25,7 +25,7 @@
 | MasterTool IEC XE | Altus (Бразилия) | [открыть]()     | [перейти]()      |     |
 | U-create studio | Weidmueller (Германия) | [открыть]()    | [перейти]()      |     |
 | XS Studio | Xinje (Китай) | [открыть]()    | [перейти]()      |     |
-| LicOS Smart Control V5 | LicOS (Китай) | [открыть]()    | [перейти]()      |     |
+| Smart Control V5 | LicOS (Китай) | [открыть]()    | [перейти]()      |     |
 | InoProShop | Innovance (Китай) | [открыть]()     | [перейти]()      |     |
 | HCP Works 3 | HCFA (Китай) | [открыть]()    | [перейти]()      |     |
 | DIAStudio | Delta Electronics (Тайвань) | [открыть]()    | [перейти]()      |     |
