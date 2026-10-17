@@ -31,5 +31,5 @@
 | HCP Works 3 | HCFA (Китай) | [открыть]()    | [перейти]()      |     |
 | DIAStudio | Delta Electronics (Тайвань) | [открыть]()    | [перейти]()      |     |
 | HX CODESYS | Hitachi Europe (Япония) | [открыть]()    | [перейти]()      |     |
-| BCS Tools | Beijer Electronics (Швеция) | [открыть]()     | [перейти]()      | Создан на базе MasterTool IEC XE от Altus |
+| BCS Tools | Beijer Electronics (Швеция) | [открыть]()     | [перейти]()      | Создана на базе MasterTool IEC XE от Altus |
 | WECSYS | Wecon (Китай) | [открыть]()     | [перейти]()      |     |
