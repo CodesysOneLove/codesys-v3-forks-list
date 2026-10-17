@@ -3,7 +3,7 @@
 
 | Название | Производитель | Скриншот | Ссылки | Комментарий |
 | --- | --- | --- | --- | --- |
-| Astra.IDE | ООО «РегЛаб» (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/AstraIDE.png)    | [перейти](https://reglab.ru/programm/group/astra_ide/)    | Включена в реестр отечественного ПО с реестровым номером [14356](https://reestr.digital.gov.ru/reestr/887853/?sphrase_id=28740671) .  <br><br/>Раньше называлась [Epsilon LD](https://reglab.ru/programm/group/epsilon_ld/) |
+| Astra.IDE | ООО «РегЛаб» (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/AstraIDE.png)    | [перейти](https://reglab.ru/programm/group/astra_ide/)    | Включена в реестр отечественного ПО с реестровым номером [14356](https://reestr.digital.gov.ru/reestr/887853/?sphrase_id=28740671).  <br><br/>Раньше называлась [Epsilon LD](https://reglab.ru/programm/group/epsilon_ld/) |
 | INGRED v3.5 | АО «ЭлеСи» (Россия) |     |     |     |
 | Abak.IDE | АО НИЦ "ИНКОМСИСТЕМ" (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Abak%20IDE.png)     | [перейти](https://docs.incomsystem.ru/)     | Включена в реестр отечественного ПО с реестровым номером [29075](https://reestr.digital.gov.ru/reestr/3523783/?sphrase_id=28740651) |
 | Procyon IDE | АО «Нефтеавтоматика» (Россия) |     |     |     |
