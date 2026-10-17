@@ -20,7 +20,6 @@
 | KeStudio | Keba (Австрия) | [открыть]()     | [перейти]()      |     |
 | XSoft-CODESYS | Eaton Automation AG (США / Ирландия) | [открыть]()      | [перейти]()      |     |
 | PLC Designer | Lenze (Германия) | [открыть]()     | [перейти]()      |     |
-| OtoStudio | Googol Technology (Китай) | [открыть]()     | [перейти]()      |     |
 | Flexium Tools | Num (Германия) | [открыть]()     | [перейти]()      |     |
 | AutomationControlSuite AS6 | Stöber (Германия) | [открыть]()     | [перейти]()      |     |
 | MasterTool IEC XE | Altus (Бразилия) | [открыть]()     | [перейти]()      |     |
