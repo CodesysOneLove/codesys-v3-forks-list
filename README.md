@@ -11,24 +11,24 @@
 | TwinCAT PLC++ | Beckhoff (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/TwinCAT%20PLC%2B%2B.png) ([источник](https://youtu.be/XfBUnPzB8KI?si=-tiCIWJHsDdMPtu4)) | [перейти](https://www.beckhoff.com/en-en/products/automation/twincat-plc/)      | Не является "форком" как таковым - от CODESYS использованы только редакторы (и, вероятно, компиляторы) МЭК-языков     |
 | EcoStructure Machine Expert | Schneider Electric (Франция) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/EcoStruxure%20Machine%20Expert.png)     | [перейти](https://www.se.com/us/en/product-range/2226-ecostruxure-machine-expert-software/#overview)      | Раньше называлась SoMachine<br></br>[обзор отличий от CODESYS](https://oscat.ru/wp-content/Docs/CODESYS_Forks/SchneiderElectric_EcoStruxureMachineExpert.pdf) |
 | E+PLC | Eurotherm (Англия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/E%2BPLC.png)     | [перейти](https://www.eurotherm.com/eplc-range/)      | [обзор отличий от CODESYS](https://oscat.ru/wp-content/Docs/CODESYS_Forks/SchneiderElectric_EcoStruxureMachineExpert.pdf)    |
-| e!COCKPIT | Wago (Германия) | [открыть]()     | [перейти]()      |     |
-| Automation Builder | ABB (Швеция / Швейцария) | [открыть]()     | [перейти]()      | Раньше называлась Control Builder Plus |
-| IndraWorks | Bosch Rexroth (Германия) | [открыть]()     | [перейти]()      |     |
-| Moog Application Software Suite | Moog (США) | [открыть]()     | [перейти]()      |     |
-| Machine Control Studio | Nidec Drives (Япония) | [открыть]()     | [перейти]()      |     |
-| COMBIVIS studio 6 | KEB (Германия) | [открыть]()     | [перейти]()      |     |
-| KeStudio | Keba (Австрия) | [открыть]()     | [перейти]()      |     |
-| XSoft-CODESYS | Eaton Automation AG (США / Ирландия) | [открыть]()      | [перейти]()      |     |
-| PLC Designer | Lenze (Германия) | [открыть]()     | [перейти]()      |     |
-| Flexium Tools | Num (Германия) | [открыть]()     | [перейти]()      |     |
-| AutomationControlSuite AS6 | Stöber (Германия) | [открыть]()     | [перейти]()      |     |
-| MasterTool IEC XE | Altus (Бразилия) | [открыть]()     | [перейти]()      |     |
-| U-create studio | Weidmueller (Германия) | [открыть]()    | [перейти]()      |     |
-| XS Studio | Xinje (Китай) | [открыть]()    | [перейти]()      |     |
-| Smart Control V5 | LicOS (Китай) | [открыть]()    | [перейти]()      |     |
-| InoProShop | Innovance (Китай) | [открыть]()     | [перейти]()      |     |
-| HCP Works 3 | HCFA (Китай) | [открыть]()    | [перейти]()      |     |
-|  DIADesigner AX | Delta Electronics (Тайвань) | [открыть]()    | [перейти]()      |     |
-| HX CODESYS | Hitachi Europe (Япония) | [открыть]()    | [перейти]()      |     |
-| BCS Tools | Beijer Electronics (Швеция) | [открыть]()     | [перейти]()      | Создана на базе MasterTool IEC XE от Altus |
-| WECSYS | Wecon (Китай) | [открыть]()     | [перейти]()      |     |
+| e!COCKPIT | Wago (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/e!COCKPIT.png)     | [перейти]()      |     |
+| Automation Builder | ABB (Швеция / Швейцария) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Automation%20Builder.png)     | [перейти]()      | Раньше называлась Control Builder Plus |
+| IndraWorks | Bosch Rexroth (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/IndraWorks.png)     | [перейти]()      |     |
+| Moog Application Software Suite | Moog (США) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Moog%20Application%20Software%20Suite.png)     | [перейти]()      |     |
+| Machine Control Studio | Nidec Drives (Япония) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Machine%20Control%20Studio.png)     | [перейти]()      |     |
+| COMBIVIS studio 6 | KEB (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/COMBIVIS%20studio%206.png)     | [перейти]()      |     |
+| KeStudio | Keba (Австрия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/KeStudio.png)     | [перейти]()      |     |
+| XSoft-CODESYS | Eaton Automation AG (США / Ирландия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/XSoft-CODESYS.png)      | [перейти]()      |     |
+| PLC Designer | Lenze (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/PLC%20Designer.png)     | [перейти]()      |     |
+| Flexium Tools | Num (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Flexium%20Tools.png)     | [перейти]()      |     |
+| AutomationControlSuite AS6 | Stöber (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/AutomationControlSuite%20AS6.png)     | [перейти]()      |     |
+| MasterTool IEC XE | Altus (Бразилия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/MasterTool%20IEC%20XE.png)     | [перейти]()      |     |
+| U-create studio | Weidmueller (Германия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/U-create%20studio.png)    | [перейти]()      |     |
+| XS Studio | Xinje (Китай) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/XS%20Studio.png)    | [перейти]()      |     |
+| Smart Control V5 | LicOS (Китай) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Smart%20Control%20V5.png)    | [перейти]()      |     |
+| InoProShop | Innovance (Китай) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/InoProShop.png)     | [перейти]()      |     |
+| HCP Works 3 | HCFA (Китай) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/HCP%20Works%203.gif)    | [перейти]()      |     |
+|  DIADesigner AX | Delta Electronics (Тайвань) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/DIADesigner%20AX.png)    | [перейти]()      |     |
+| HX CODESYS | Hitachi Europe (Япония) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/HX-CODESYS.png)    | [перейти]()      |     |
+| BCS Tools | Beijer Electronics (Швеция) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/BCS%20Tools.png)     | [перейти]()      | Создана на базе MasterTool IEC XE от Altus |
+| WECSYS | Wecon (Китай) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/WECSYS.png)     | [перейти]()      |     |
