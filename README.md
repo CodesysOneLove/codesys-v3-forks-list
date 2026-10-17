@@ -5,7 +5,7 @@
 | --- | --- | --- | --- | --- |
 | Astra.IDE | ООО «РегЛаб» (Россия) |     |     | Включена в реестр отечественных программ Минцифры РФ, запись № 14356.  <br><br/>Раньше называлась Epsilon LD |
 | INGRED v3.5 | АО «ЭлеСи» (Россия) |     |     |     |
-| Abak.IDE | АО НИЦ "ИНКОМСИСТЕМ" (Россия) | [https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Abak%20IDE.png](открыть)     |     | Внесена в реестр отечественного ПО с реестровым номером 29075 от 31.07.2025. |
+| Abak.IDE | АО НИЦ "ИНКОМСИСТЕМ" (Россия) | [открыть[(https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Abak%20IDE.png])     |     | Внесена в реестр отечественного ПО с реестровым номером 29075 от 31.07.2025. |
 | Procyon IDE | АО «Нефтеавтоматика» (Россия) |     |     |     |
 | TwinCAT 3 | Beckhoff (Германия) |     |     |     |
 | TwinCAT PLC++ | Beckhoff (Германия) |     |     |     |
