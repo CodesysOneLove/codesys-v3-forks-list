@@ -6,10 +6,10 @@
 | Astra.IDE | ООО «РегЛаб» (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/AstraIDE.png)    | [перейти](https://reglab.ru/programm/group/astra_ide/)    | Включена в реестр отечественного ПО с реестровым номером [14356](https://reestr.digital.gov.ru/reestr/887853/?sphrase_id=28740671).  <br><br/>Раньше называлась [Epsilon LD](https://reglab.ru/programm/group/epsilon_ld/) |
 | INGRED v3.5 | АО «ЭлеСи» (Россия) |  [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/INGRED%20v3.5.png)   | [перейти](https://cloud.elesy.ru/index.php/s/P598NCrscfk4dRF?path=%2F)     | Включена в реестр отечественного ПО с реестровым номером [27237](https://reestr.digital.gov.ru/reestr/3166688/?sphrase_id=28740691)     |
 | Abak.IDE | АО НИЦ "ИНКОМСИСТЕМ" (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Abak%20IDE.png)     | [перейти](https://docs.incomsystem.ru/)     | Включена в реестр отечественного ПО с реестровым номером [29075](https://reestr.digital.gov.ru/reestr/3523783/?sphrase_id=28740651) |
-| Procyon IDE | АО «Нефтеавтоматика» (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Procyon%20IDE.png)     |     |     |
+| Procyon IDE | АО «Нефтеавтоматика» (Россия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/Procyon%20IDE.png)     | [перейти](https://www.nefteavtomatika.ru/ru/sup/industrial-automation-facilities-and-systems/plk/plk-serii-mklogic-500/?tab=mc_third)      | Включена в реестр отечественного ПО с реестровым номером [28447]([https://reestr.digital.gov.ru/reestr/3523783/?sphrase_id=28740651](https://reestr.digital.gov.ru/reestr/3407375/?sphrase_id=28740701))     |
 | TwinCAT 3 | Beckhoff (Германия) | [открыть]()     | [перейти]()      |     |
 | TwinCAT PLC++ | Beckhoff (Германия) | [открыть]()    | [перейти]()      |     |
-| EcoStructure Machine Expert | Schneider Electric (Франция) | [открыть]()     |     | Раньше называлась SoMachine |
+| EcoStructure Machine Expert | Schneider Electric (Франция) | [открыть]()     | [перейти]()      | Раньше называлась SoMachine |
 | E+PLC | Schneider Electric (Франция) | [открыть]()     | [перейти]()      |     |
 | e!COCKPIT | Wago (Германия) | [открыть]()     | [перейти]()      |     |
 | Automation Builder | ABB (Швеция / Швейцария) | [открыть]()     | [перейти]()      | Раньше называлась Control Builder Plus |
