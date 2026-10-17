@@ -13,7 +13,7 @@
 | E+PLC | Eurotherm (Англия) | [открыть](https://github.com/CodesysOneLove/codesys-v3-forks-list/blob/main/pics/E%2BPLC.png)     | [перейти](https://www.eurotherm.com/eplc-range/)      | [обзор отличий от CODESYS](https://oscat.ru/wp-content/Docs/CODESYS_Forks/SchneiderElectric_EcoStruxureMachineExpert.pdf)    |
 | e!COCKPIT | Wago (Германия) | [открыть]()     | [перейти]()      |     |
 | Automation Builder | ABB (Швеция / Швейцария) | [открыть]()     | [перейти]()      | Раньше называлась Control Builder Plus |
-| IndraLogic | Bosch Rexroth (Германия) | [открыть]()     | [перейти]()      |     |
+| IndraWorks | Bosch Rexroth (Германия) | [открыть]()     | [перейти]()      |     |
 | Moog Application Software Suite | Moog (США) | [открыть]()     | [перейти]()      |     |
 | Machine Control Studio | Nidec Drives (Япония) | [открыть]()     | [перейти]()      |     |
 | COMBIVIS studio 6 | KEB (Германия) | [открыть]()     | [перейти]()      |     |
