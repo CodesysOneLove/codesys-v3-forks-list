@@ -1,4 +1,4 @@
-Ниже приведен список IDE для программирования ПЛК, основанных на [CODESYS Automation Platform](https://de.codesys.com/produkte/engineering/) - [фреймворке](https://www.codesys.cn/uploadfiles/image/201804/84.png), который использовался для создания [CODESYS V3](https://www.codesys.com/products/engineering/development-system/).
+Ниже приведен список IDE для программирования ПЛК, основанных на [CODESYS Automation Platform](https://de.codesys.com/produkte/engineering/) - [фреймворке (SDK)](https://www.codesys.cn/uploadfiles/image/201804/84.png), который был создан разработчками среды [CODESYS V3](https://www.codesys.com/products/engineering/development-system/).
 
 
 | Название | Производитель | Скриншот | Ссылки | Комментарий |
